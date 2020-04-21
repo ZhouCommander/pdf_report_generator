@@ -1,0 +1,42 @@
+{
+    "debug" : "True",
+    "company_name":"The Home Depot",
+    "property_name":"The Home Depot",
+    "pdf_name_prefix" :"The Home Depot",
+    "pdf_url":"https://deepnorth.blob.core.windows.net/report/",
+    "account_name" :"deepnorth",
+    "account_key":"NH7J6/Lp2u5Rat8SauDTXmigylrCXJOg8Q85L95lsFL+zc+mB8m3WxiDYbVXY5p87ANxid0yxvtiWixero8yPw==",
+    "upload_path_name":"report",
+    "PageWidth" : 2550,
+    "PageHeight" : 3300,
+    "temp_path": "./reports",
+    "client_profile":{
+        "background_image_path":"",
+        "logo":{
+            "image_path":"../resource/image/homedepot_logo.png",
+            "image_width":784,
+            "image_height":135,
+            "image_x":150,
+            "image_y":3050
+        },
+        "client_title_1":"",
+        "client_title_2":"",
+        "location":""
+    },
+    "company_profile":{
+        "company_logo1":{
+            "image_path":"../resource/image/deepnorth_logo.png",
+            "image_width":480,
+            "image_height":194,
+            "image_x":1900,
+            "image_y":3050        
+        },
+        "company_logo2":{
+            "image_path":"../resource/image/deepnorth_back_logo.png",
+            "image_width":1430,
+            "image_height":510,
+            "image_x":650,
+            "image_y":1580        
+        }
+    }
+}

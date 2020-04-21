@@ -1,0 +1,7 @@
+{
+    "email_sender":"analysis@deepnorth.com",
+    "email_username":"apikey",
+    "email_passwd":"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",
+    "email_server_type":"smtp.sendgrid.net",
+    "email_server_port":"587"
+}
