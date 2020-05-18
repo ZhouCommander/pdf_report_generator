@@ -1,12 +1,10 @@
 #!/usr/bin/ python
 # coding=utf-8
 """
-/*******************************************************************************
- * Deep North Confidential
- * Copyright (C) 2018 Deep North Inc. All rights reserved.
- * The source code for this program is not published
- * and protected by copyright controlled
- *******************************************************************************/
+*Author: team of develop platform(vmaxx)
+*Date:2018-10
+*The source code made by our team is opened
+*Take care of it please and welcome to update it 
 """
 
 import smtplib
